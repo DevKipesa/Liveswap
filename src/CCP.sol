@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.0;
 
-import "./interface/IAuthorization.sol";
-import "./interface/IAnalytics.sol";
-import "./interface/ISubscription.sol";
+import "./Interface/IAuthorization.sol";
+import "./Interface/IAnalytics.sol";
+import "./Interface/ISubscription.sol";
 
 contract CCP {
     IAuthorization public authorizationContract;

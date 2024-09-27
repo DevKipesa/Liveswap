@@ -2,8 +2,8 @@
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
-import "./interface/IVault.sol";
-import "./interface/IAuthorization.sol";
+import "./Interface/IVault.sol";
+import "./Interface/IAuthorization.sol";
 
 contract Subscription {
     IERC20 public token;
