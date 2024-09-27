@@ -5,9 +5,9 @@ import "forge-std/Test.sol";
 import "../src/Token.sol";
 import "../src/Subscription.sol";
 import "../src/CCP.sol";
-import "../src/Authorization.sol";  // Example, replace with actual path
-import "../src/Vault.sol";           // Example, replace with actual path
-import "../src/Analytics.sol";       // Example, replace with actual path
+import "../src/Authorization.sol";
+import "../src/Vault.sol";
+import "../src/Analytics.sol";
 
 
 contract TestAuthorization is Test {
