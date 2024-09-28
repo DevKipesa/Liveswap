@@ -25,6 +25,7 @@ $ forge build
 ### Test
 
 ```shell
-$ forge script
+$ forge test
+
 ```
 
